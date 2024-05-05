@@ -18,5 +18,4 @@ jobs:
     - name: Install dependencies
       run: |
         ls
-        cd ..
         pip install -r requirements.txt
